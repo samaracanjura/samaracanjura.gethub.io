@@ -197,7 +197,7 @@ input,select{vertical-align:middle}
 #window1 .wincontent {	width: 500px; height: 300px;	}
 #window2 .wincontent {	width: 400px; height: 265px;	}
 #window5 .wincontent {  width: 200px; height: 300px;    }
-#window4 .wincontent {  width: 200px; height: 300px;    }
+#window4 .wincontent {  width: 200px; height: 170px;    }
 #window6 .wincontent {  width: 400px; height: 265px;    }
 
 @media screen and (max-width:960px){
