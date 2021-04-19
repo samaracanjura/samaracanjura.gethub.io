@@ -189,9 +189,9 @@ input,select{vertical-align:middle}
 #window1 {	top: 390px; left: 120px;}
 #window2 {	top: 250px; left: 300px;}
 #window3 {	top: 80px; left:  950px;}
-#window4 {  top:170px; left:  900px;}
-#window5 {  top:310px; left: 900px; }
-#window6 {  top: 200px; Left: 650px ;}
+#window4 {  top:170px; left:  850px;}
+#window5 {  top:310px; left:  900px;}
+#window6 {  top: 200px; Left: 650px;}
 #window3 .wincontent {  width: 400px; height: 200px;    }
 #window0 .wincontent {	width: 660px; height: 600px;	}
 #window1 .wincontent {	width: 500px; height: 300px;	}
